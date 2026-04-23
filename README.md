@@ -18,7 +18,7 @@ A production-grade Ubuntu Server deployment on a Raspberry Pi 5, built from scra
 
 ## About
 
-Built by Eric Miller-Saisi as part of a career transition into cloud security and IT infrastructure.
+Built by Eric M as part of a career transition into cloud security and IT infrastructure.
 
 - CompTIA Security+ certified
 - Currently studying AZ-900 Azure Fundamentals
